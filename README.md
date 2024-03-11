@@ -19,13 +19,17 @@ These are some of our results:
 
 ![image](https://github.com/Sahithi-Akunuri/DL-research/assets/111894343/15bb94c1-5eef-4281-96be-b4fb4baf2c77)
 
+
 Analysis:
 
 ![image](https://github.com/Sahithi-Akunuri/DL-research/assets/111894343/5f87d8f4-aeea-409e-a93d-fdf1ca5ad841)
+
 Fig1. Results of saliency detection of various models: a. Original Image b. IT c. MZ d. SR e. OUR
 
 ![image](https://github.com/Sahithi-Akunuri/DL-research/assets/111894343/ad5f4a26-8805-439b-9709-495cfb3156dd)
+
 Fig2. Comparison of precision, recall and F-measure employed for various methods 
 
 ![image](https://github.com/Sahithi-Akunuri/DL-research/assets/111894343/41ecfbf0-b5d9-41c8-be02-4993e4fc61be)
+
 Fig3. Comparison of mean absolute error (MAE) employed for various methods 
